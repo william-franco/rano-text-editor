@@ -3,6 +3,15 @@
 Under construction.
 
 
+## Commands
+
+```
+Search: (Ctrl+W)
+Save: (Ctrl+O)
+Exit: (Ctrl+X)
+```
+
+
 ## ScreenShots
 
 | Image 1 | Image 2 | Image 3 |
