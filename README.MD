@@ -1,6 +1,6 @@
 # Rano Text Editor
 
-Under construction.
+A minimal terminal text editor with line-based editing, scrolling, save-as, and basic search. Built with ratatui and crossterm for a lightweight TUI experience.
 
 ## Commands
 
