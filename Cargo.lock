@@ -247,7 +247,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rano_text_editor"
+name = "rano-text-editor"
 version = "0.1.0"
 dependencies = [
  "crossterm 0.29.0",
